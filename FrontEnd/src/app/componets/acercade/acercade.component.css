@@ -4,7 +4,7 @@
 }
 div{
     text-align: center;
-    
+
 }
 /*nombre*/
 #nombre{
@@ -37,7 +37,7 @@ p{
         border-radius: 100%;
         box-shadow: 3px 3px 3px #F875BF ;
         left: 5%;
-        top: 650px;
+        top: 750px;
     }
 }
 @media (max-width: 575px){
