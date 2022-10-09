@@ -1,0 +1,17 @@
+.row{
+    padding: 40px;
+   background: #AB62B8;
+}
+/*titulo*/
+h1{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'Acme';
+
+}
+h2{
+    font-size: 25px;
+}

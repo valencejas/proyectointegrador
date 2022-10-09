@@ -1,0 +1,26 @@
+img{
+    width: 15%;
+}
+button{
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Acme';
+    text-decoration: none;
+}
+button > a:hover{
+    text-decoration: underline;
+}
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
+ a {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Acme';
+    text-decoration: none;
+    margin-right: 10px;
+}
+ a:hover {
+    text-decoration:underline;
+} 

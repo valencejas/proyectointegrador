@@ -1,0 +1,49 @@
+.row{
+    padding: 40px;
+   background: #AB62B8;
+}
+div{
+    text-align: center;
+    
+}
+/*nombre*/
+#nombre{
+    margin-top: 0;
+    font-size: 30px;
+    font-family: 'Lobster';
+    color: white;
+}
+#sub{
+    color: white;
+    font-size: 20px;
+}
+/*titulo*/
+h1{
+    font-size: 30px;
+    color: white;
+    font-family: 'Lobster';
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+/*foto de perfil*/
+@media (min-width: 576px){
+    #perfil{
+        position: absolute;
+        width: 10%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px #F875BF ;
+        left: 5%;
+        top: 650px;
+    }
+}
+@media (max-width: 575px){
+    #perfil{
+        position: absolute;
+        width: 20%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px #F875BF ;
+        left: 40%;
+        top: 650px;
+    }
+}

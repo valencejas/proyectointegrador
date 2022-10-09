@@ -1,0 +1,30 @@
+.row{
+    background: #dfe5ee;
+    margin: 0;
+}
+/*proyectos*/
+div{
+    display: flex;
+    overflow: hidden;
+    margin: 25px;
+}
+#proyectos{
+    width: 20%;
+    height: 20%;
+    margin-bottom: 10px;
+   position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    display: block;
+}
+img{
+    object-fit: contain;
+}
+
+/*titulos*/
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

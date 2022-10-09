@@ -1,0 +1,12 @@
+.row{
+    background: #AB62B8;
+}
+/*titulo*/
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Lobster';
+    color: white;
+    margin-bottom: 5%;
+}

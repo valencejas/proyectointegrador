@@ -1,0 +1,10 @@
+.row{
+    background: #dfe5ee;
+}
+/*titulo*/
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

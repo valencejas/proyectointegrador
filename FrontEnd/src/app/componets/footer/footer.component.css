@@ -1,0 +1,10 @@
+.row{
+    background: #AB62B8;
+}
+footer{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 2px -2px 5px #F875BF;
+}

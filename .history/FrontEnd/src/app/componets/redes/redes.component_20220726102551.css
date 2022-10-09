@@ -1,0 +1,11 @@
+a{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+div{
+    background: none;
+    padding: 0;
+}
