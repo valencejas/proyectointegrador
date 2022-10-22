@@ -19,6 +19,7 @@ import { interceptorProvider } from './servicio/interceptor-service';
 import { FormsModule } from '@angular/forms';
 import { HabComponent } from './componets/hab/hab.component';
 import { NueveeducacionComponent } from './componets/educacion/nueveeducacion.component';
+import { EditarEducacionComponent } from './componets/educacion/editar-educacion.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,6 +35,7 @@ import { NueveeducacionComponent } from './componets/educacion/nueveeducacion.co
     LoginComponent,
     HabComponent,
     NueveeducacionComponent,
+    EditarEducacionComponent,
   ],
   imports: [
     BrowserModule,

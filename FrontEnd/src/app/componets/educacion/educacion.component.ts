@@ -22,7 +22,7 @@ export class EducacionComponent implements OnInit {
       this.isLogged=false;
     }
   }
-  
+
   cargarEducacion(): void{
     this.educacionS.lista().subscribe(
       data =>{
